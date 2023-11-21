@@ -1,4 +1,4 @@
-const footerEl = document.querySelector('.site-footer');
+const footerEl = document.querySelector('.hm-copyright');
 
 if (!footerEl) {
   throw '';
